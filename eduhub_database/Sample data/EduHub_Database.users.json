@@ -1,0 +1,721 @@
+[{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd2"
+  },
+  "userId": "STUD003",
+  "email": "Odusotewellignton@eduhub.com",
+  "firstName": "Odusote",
+  "lastName": "Wellington",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Data Analyst with a knack for storytelling through data",
+    "avatar": "odusote_wellington.jpg",
+    "skills": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Power BI"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cdd"
+  },
+  "userId": "STUD009",
+  "email": "jacksparrow@eduhub.com",
+  "firstName": "Jack",
+  "lastName": "Sparrow",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": " AI enthusiast.",
+    "avatar": "jack_sparrow.jpg",
+    "skills": [
+      "Python",
+      "JavaScript"
+    ],
+    "location": "New York, USA"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ccf"
+  },
+  "userId": "INSTR002",
+  "email": "david.julius@eduhub.com",
+  "firstName": "David",
+  "lastName": "Julius",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2024-02-20T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Data Scientist and ML Engineer specializing in Python and AI",
+    "avatar": "david_julius.jpg",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cce"
+  },
+  "userId": "INSTR001",
+  "email": "kola.aderoju@eduhub.com",
+  "firstName": "Kola",
+  "lastName": "Aderoju",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2023-01-11T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Senior Data Engineer with 10+ years experience",
+    "avatar": "kola_aderoju.jpg",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Python",
+      "AWS"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce0"
+  },
+  "userId": "INSTR009",
+  "email": "adebayo.adesina@eduhub.com",
+  "firstName": "Adebayo",
+  "lastName": "Adesina",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2022-03-15T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Cloud Architect specializing in AWS and Azure solutions",
+    "avatar": "adebayo_adesina.jpg",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Cloud Architecture",
+      "DevOps",
+      "Terraform"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd9"
+  },
+  "userId": "STUD008",
+  "email": "salisuabdullahi@eduhub.com",
+  "firstName": "Salisu",
+  "lastName": "Abdullahi",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2020-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Full-stack developer and AI enthusiast.",
+    "avatar": "salisu_abdullahi.jpg",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "location": "New York, USA"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cde"
+  },
+  "userId": "STUD010",
+  "email": "olajideayotomiwa@eduhub.com",
+  "firstName": "Olajide",
+  "lastName": "Ayotomiwa",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Scientist with a focus on data visualization",
+    "avatar": "olajide_ayotomiwa.jpg",
+    "skills": [
+      "Python",
+      "Tableau",
+      "Power BI",
+      "Data Analysis"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce6"
+  },
+  "userId": "STUD016",
+  "email": "zainab.yusuf@eduhub.com",
+  "firstName": "Zainab",
+  "lastName": "Yusuf",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "UI/UX design enthusiast learning Figma and design principles",
+    "avatar": "zainab_yusuf.jpg",
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "UI Design",
+      "Wireframing",
+      "Prototyping"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd6"
+  },
+  "userId": "STUD005",
+  "email": "ikechukwukenneth@eduhub.com",
+  "firstName": "Ikechukwu",
+  "lastName": "Kenneth",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Scientist with a focus on data analysis",
+    "avatar": "ikechukwu_kenneth.jpg",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce4"
+  },
+  "userId": "STUD014",
+  "email": "aminat.suleiman@eduhub.com",
+  "firstName": "Aminat",
+  "lastName": "Suleiman",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-07-05T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Analyst learning Python and SQL",
+    "avatar": "aminat_suleiman.jpg",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Data Analysis",
+      "Statistics"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce3"
+  },
+  "userId": "STUD013",
+  "email": "chukwuma.emecheta@eduhub.com",
+  "firstName": "Chukwuma",
+  "lastName": "Emecheta",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-06-10T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Computer Science student passionate about backend development",
+    "avatar": "chukwuma_emecheta.jpg",
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "REST APIs",
+      "Git"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd3"
+  },
+  "userId": "STUD004",
+  "email": "AdamuNasiru@eduhub.com",
+  "firstName": "Adamu",
+  "lastName": "Nasiru",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Emerging Data Scientist with a focus on data visualization",
+    "avatar": "adamu_nasiru.jpg",
+    "skills": [
+      "Python",
+      "Tableau",
+      "Power BI",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce7"
+  },
+  "userId": "STUD017",
+  "email": "emeka.nwankwo@eduhub.com",
+  "firstName": "Emeka",
+  "lastName": "Nwankwo",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Full-stack developer in training focusing on MERN stack",
+    "avatar": "emeka_nwankwo.jpg",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "React"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cdc"
+  },
+  "userId": "INSTR006",
+  "email": "johnsmith@eduhub.com",
+  "firstName": "John",
+  "lastName": "Smith",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Machine Learning Engineer with a passion for teaching",
+    "avatar": "john_smith.jpg",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "Deep Learning"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd1"
+  },
+  "userId": "STUD002",
+  "email": "HarryPotter@eduhub.com",
+  "firstName": "Harry",
+  "lastName": "Potter",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-04-10T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Data Enthusiast eager to learn data analysis and visualization",
+    "avatar": "harry_potter.jpg",
+    "skills": [
+      "Python",
+      "Tableau",
+      "Power BI",
+      "SQL"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd5"
+  },
+  "userId": "INSTR004",
+  "email": "AishaBello@eduhub.com",
+  "firstName": "Aisha",
+  "lastName": "Bello",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "5 years+ Experience in Data Science with a focus on NLP",
+    "avatar": "aisha_bello.jpg",
+    "skills": [
+      "Python",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Deep Learning"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cdb"
+  },
+  "userId": "INSTR005",
+  "email": "nnekaobi@eduhub.com",
+  "firstName": "Nneka",
+  "lastName": "Obi",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2021-08-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Data Analyst with a knack for storytelling through data",
+    "avatar": "nneka_obi.jpg",
+    "skills": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Data Visualization"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd0"
+  },
+  "userId": "STUD001",
+  "email": "SilasAdeboye@eduhub.com",
+  "firstName": "Silas",
+  "lastName": "Adeboye",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-03-15T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Scientist with a passion for machine learning",
+    "avatar": "silas_adeboye.jpg",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce5"
+  },
+  "userId": "STUD015",
+  "email": "tunde.ogunleye@eduhub.com",
+  "firstName": "Tunde",
+  "lastName": "Ogunleye",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Frontend developer learning React and modern JavaScript",
+    "avatar": "tunde_ogunleye.jpg",
+    "skills": [
+      "JavaScript",
+      "React",
+      "CSS",
+      "HTML",
+      "Bootstrap"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd7"
+  },
+  "userId": "STUD006",
+  "email": "salamiolabisi@eduhub.com",
+  "firstName": "Salami",
+  "lastName": "Olabisi",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Engineer with a focus on Data Orchestration",
+    "avatar": "ikechukwu_kenneth.jpg",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd4"
+  },
+  "userId": "INSTR003",
+  "email": "Fatimahhawau@eduhub.com",
+  "firstName": "Fatimah",
+  "lastName": "Hawau",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Data Analyst with a passion for turning data into actionable insights",
+    "avatar": "fatimah_hawau.jpg",
+    "skills": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cd8"
+  },
+  "userId": "STUD007",
+  "email": "albertdumbledore@eduhub.com",
+  "firstName": "Albert",
+  "lastName": "Dumbledore",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Engineer with a focus on Machine Learning",
+    "avatar": "christopher_dumbledore.jpg",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188cdf"
+  },
+  "userId": "STUD011",
+  "email": "johnakingbile@eduhub.com",
+  "firstName": "John",
+  "lastName": "Akingbile",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Data Scientist with a focus on machine learning",
+    "avatar": "john_akingbile.jpg",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce2"
+  },
+  "userId": "INSTR011",
+  "email": "oluwaseun.bakare@eduhub.com",
+  "firstName": "Oluwaseun",
+  "lastName": "Bakare",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Cybersecurity Expert and Ethical Hacking Instructor",
+    "avatar": "oluwaseun_bakare.jpg",
+    "skills": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Network Security",
+      "Python",
+      "Linux"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e0484dfcfe7fc5c2188ce1"
+  },
+  "userId": "INSTR010",
+  "email": "chioma.okeke@eduhub.com",
+  "firstName": "Chioma",
+  "lastName": "Okeke",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2021-11-10T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Mobile App Developer with expertise in Flutter and React Native",
+    "avatar": "chioma_okeke.jpg",
+    "skills": [
+      "Flutter",
+      "React Native",
+      "Dart",
+      "Mobile Development",
+      "UI/UX"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "68e078dfcec89a379c2ddb26"
+  },
+  "userId": "STUD018",
+  "name": "Dare Awolowo",
+  "email": "dare.awolowo@eduhub.com",
+  "firstName": "Dare",
+  "lastName": "Awolowo",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Full-stack developer and AI enthusiast.",
+    "avatar": "dare_awlowo.jpg",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "location": "New York, USA"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e1f15395edfdef7f43e643"
+  },
+  "userId": "STUD@023",
+  "name": "Damola Adeola",
+  "email": "damola.adeola@eduhub.com",
+  "firstName": "Damola",
+  "lastName": "Adeola",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Machine Learning expert and Artificial Intelligence prompt Engineer.",
+    "avatar": "dare_awlowo.jpg",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Python",
+      "AWS"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e236ff95edfdef7f43e6bd"
+  },
+  "userId": "STUD053",
+  "name": "Damola Adeola",
+  "email": "damol.adeola@eduhub.com",
+  "firstName": "Damola",
+  "lastName": "Adeola",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "profile": {
+    "bio": "Aspiring Machine Learning expert and Artificial Intelligence prompt Engineer.",
+    "avatar": "dare_awlowo.jpg",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Python",
+      "AWS"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68e23ab495edfdef7f43e6cb"
+  },
+  "userId": "STUD999",
+  "email": "john.doe@eduhub.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-05T09:30:28.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e23ab495edfdef7f43e6d6"
+  },
+  "userId": "STUD200",
+  "email": "newstudent@eduhub.com",
+  "firstName": "New",
+  "lastName": "Student",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-10-05T09:30:28.000Z"
+  }
+}]

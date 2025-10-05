@@ -1,0 +1,323 @@
+[{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d17"
+  },
+  "lessonId": "LESSON004",
+  "courseId": "COURSE001",
+  "title": "Data Visualization Basics",
+  "content": "Creating charts with Matplotlib and Seaborn",
+  "order": 4,
+  "duration": 210
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d26"
+  },
+  "lessonId": "LESSON019",
+  "courseId": "COURSE005",
+  "title": "JOIN Operations",
+  "content": "Inner, outer, left, and right joins",
+  "order": 2,
+  "duration": 160
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d27"
+  },
+  "lessonId": "LESSON020",
+  "courseId": "COURSE005",
+  "title": "Advanced SQL Queries",
+  "content": "Subqueries and window functions",
+  "order": 3,
+  "duration": 200
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d23"
+  },
+  "lessonId": "LESSON016",
+  "courseId": "COURSE004",
+  "title": "Text Classification",
+  "content": "Sentiment analysis and text categorization",
+  "order": 2,
+  "duration": 220
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d22"
+  },
+  "lessonId": "LESSON015",
+  "courseId": "COURSE004",
+  "title": "NLP Fundamentals",
+  "content": "Text preprocessing and basic NLP concepts",
+  "order": 1,
+  "duration": 190
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d31"
+  },
+  "lessonId": "LESSON030",
+  "courseId": "COURSE011",
+  "title": "Power BI Dashboard Basics",
+  "content": "Creating interactive dashboards with Power BI",
+  "order": 1,
+  "duration": 160
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d30"
+  },
+  "lessonId": "LESSON029",
+  "courseId": "COURSE010",
+  "title": "React Components",
+  "content": "Building reusable components in React",
+  "order": 1,
+  "duration": 180
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d1f"
+  },
+  "lessonId": "LESSON012",
+  "courseId": "COURSE003",
+  "title": "Seaborn for Statistical Visualization",
+  "content": "Creating statistical plots with Seaborn",
+  "order": 2,
+  "duration": 210
+},
+{
+  "_id": {
+    "$oid": "68e0bc17cec89a379c2ddc48"
+  },
+  "courseId": "COURSE002",
+  "lessonId": "LESSON031",
+  "title": "Introduction to AI Prompting",
+  "description": "Learn the fundamentals of AI prompt engineering",
+  "content": "This lesson covers basic prompt structures and techniques...",
+  "duration": 45,
+  "order": 1,
+  "createdAt": {
+    "$date": "2025-10-04T07:17:59.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d2d"
+  },
+  "lessonId": "LESSON026",
+  "courseId": "COURSE008",
+  "title": "EC2 and S3 Services",
+  "content": "Compute and storage services on AWS",
+  "order": 2,
+  "duration": 190
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d1c"
+  },
+  "lessonId": "LESSON009",
+  "courseId": "COURSE002",
+  "title": "Model Evaluation Techniques",
+  "content": "Cross-validation and performance metrics",
+  "order": 4,
+  "duration": 180
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d19"
+  },
+  "lessonId": "LESSON006",
+  "courseId": "COURSE002",
+  "title": "Introduction to Machine Learning",
+  "content": "Overview of ML concepts and applications",
+  "order": 1,
+  "duration": 150
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d14"
+  },
+  "lessonId": "LESSON001",
+  "courseId": "COURSE001",
+  "title": "Introduction to Python",
+  "content": "Python basics, variables, data types, and basic operations",
+  "order": 1,
+  "duration": 120
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d21"
+  },
+  "lessonId": "LESSON014",
+  "courseId": "COURSE003",
+  "title": "Tableau Dashboard Creation",
+  "content": "Creating business intelligence dashboards",
+  "order": 4,
+  "duration": 270
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d29"
+  },
+  "lessonId": "LESSON022",
+  "courseId": "COURSE006",
+  "title": "TensorFlow Basics",
+  "content": "Getting started with TensorFlow framework",
+  "order": 2,
+  "duration": 200
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d15"
+  },
+  "lessonId": "LESSON002",
+  "courseId": "COURSE001",
+  "title": "Python Data Structures",
+  "content": "Lists, tuples, dictionaries, and sets in Python",
+  "order": 2,
+  "duration": 180
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d2c"
+  },
+  "lessonId": "LESSON025",
+  "courseId": "COURSE008",
+  "title": "AWS Fundamentals",
+  "content": "Introduction to AWS services and architecture",
+  "order": 1,
+  "duration": 170
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d2b"
+  },
+  "lessonId": "LESSON024",
+  "courseId": "COURSE007",
+  "title": "Apache Spark Basics",
+  "content": "Distributed computing with Spark",
+  "order": 2,
+  "duration": 210
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d2e"
+  },
+  "lessonId": "LESSON027",
+  "courseId": "COURSE009",
+  "title": "Cybersecurity Basics",
+  "content": "Introduction to security principles and threats",
+  "order": 1,
+  "duration": 150
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d28"
+  },
+  "lessonId": "LESSON021",
+  "courseId": "COURSE006",
+  "title": "Introduction to Neural Networks",
+  "content": "Basic concepts of artificial neural networks",
+  "order": 1,
+  "duration": 180
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d1b"
+  },
+  "lessonId": "LESSON008",
+  "courseId": "COURSE002",
+  "title": "Unsupervised Learning",
+  "content": "Clustering and dimensionality reduction",
+  "order": 3,
+  "duration": 210
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d1e"
+  },
+  "lessonId": "LESSON011",
+  "courseId": "COURSE003",
+  "title": "Advanced Matplotlib Techniques",
+  "content": "Customizing plots and advanced features",
+  "order": 1,
+  "duration": 180
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d25"
+  },
+  "lessonId": "LESSON018",
+  "courseId": "COURSE005",
+  "title": "SQL Basics and SELECT Statements",
+  "content": "Fundamental SQL queries and data retrieval",
+  "order": 1,
+  "duration": 140
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d2a"
+  },
+  "lessonId": "LESSON023",
+  "courseId": "COURSE007",
+  "title": "Data Pipeline Concepts",
+  "content": "Introduction to ETL and data pipelines",
+  "order": 1,
+  "duration": 160
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d1a"
+  },
+  "lessonId": "LESSON007",
+  "courseId": "COURSE002",
+  "title": "Supervised Learning Algorithms",
+  "content": "Linear regression and classification models",
+  "order": 2,
+  "duration": 240
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d20"
+  },
+  "lessonId": "LESSON013",
+  "courseId": "COURSE003",
+  "title": "Interactive Visualizations with Plotly",
+  "content": "Building interactive charts and dashboards",
+  "order": 3,
+  "duration": 240
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d2f"
+  },
+  "lessonId": "LESSON028",
+  "courseId": "COURSE009",
+  "title": "Network Security Fundamentals",
+  "content": "Understanding network vulnerabilities and protection",
+  "order": 2,
+  "duration": 180
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d24"
+  },
+  "lessonId": "LESSON017",
+  "courseId": "COURSE004",
+  "title": "Transformer Models",
+  "content": "BERT, GPT, and modern NLP architectures",
+  "order": 3,
+  "duration": 280
+},
+{
+  "_id": {
+    "$oid": "68e04abdfcfe7fc5c2188d1d"
+  },
+  "lessonId": "LESSON010",
+  "courseId": "COURSE002",
+  "title": "ML Project Implementation",
+  "content": "End-to-end machine learning project",
+  "order": 5,
+  "duration": 320
+}]

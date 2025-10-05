@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d35"
+  },
+  "assignmentId": "ASSIGN004",
+  "courseId": "COURSE002",
+  "title": "Classification Model Comparison",
+  "description": "Compare different classification algorithms on a dataset",
+  "dueDate": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "maxPoints": 250
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d36"
+  },
+  "assignmentId": "ASSIGN005",
+  "courseId": "COURSE003",
+  "title": "Interactive Dashboard Creation",
+  "description": "Create an interactive dashboard using Plotly and Tableau",
+  "dueDate": {
+    "$date": "2025-08-25T00:00:00.000Z"
+  },
+  "maxPoints": 180
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d32"
+  },
+  "assignmentId": "ASSIGN001",
+  "courseId": "COURSE001",
+  "title": "Python Basics Assignment",
+  "description": "Complete exercises on Python variables, data types, and basic operations",
+  "dueDate": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "maxPoints": 100
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d34"
+  },
+  "assignmentId": "ASSIGN003",
+  "courseId": "COURSE002",
+  "title": "Linear Regression Implementation",
+  "description": "Implement linear regression from scratch and apply to sample data",
+  "dueDate": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "maxPoints": 200
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d33"
+  },
+  "assignmentId": "ASSIGN002",
+  "courseId": "COURSE001",
+  "title": "Data Analysis with Pandas",
+  "description": "Analyze a dataset using Pandas and create summary statistics",
+  "dueDate": {
+    "$date": "2025-09-10T00:00:00.000Z"
+  },
+  "maxPoints": 150
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d3b"
+  },
+  "assignmentId": "ASSIGN010",
+  "courseId": "COURSE008",
+  "title": "AWS Infrastructure Setup",
+  "description": "Set up and configure AWS services for a web application",
+  "dueDate": {
+    "$date": "2025-07-10T00:00:00.000Z"
+  },
+  "maxPoints": 200
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d3a"
+  },
+  "assignmentId": "ASSIGN009",
+  "courseId": "COURSE007",
+  "title": "ETL Pipeline Design",
+  "description": "Design and document an ETL pipeline for a sample dataset",
+  "dueDate": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "maxPoints": 220
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d38"
+  },
+  "assignmentId": "ASSIGN007",
+  "courseId": "COURSE005",
+  "title": "Complex SQL Queries",
+  "description": "Write complex SQL queries with multiple joins and subqueries",
+  "dueDate": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "maxPoints": 120
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d39"
+  },
+  "assignmentId": "ASSIGN008",
+  "courseId": "COURSE006",
+  "title": "Neural Network Implementation",
+  "description": "Build and train a neural network using TensorFlow",
+  "dueDate": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "maxPoints": 280
+},
+{
+  "_id": {
+    "$oid": "68e04af2fcfe7fc5c2188d37"
+  },
+  "assignmentId": "ASSIGN006",
+  "courseId": "COURSE004",
+  "title": "Sentiment Analysis Project",
+  "description": "Build a sentiment analysis model for product reviews",
+  "dueDate": {
+    "$date": "2025-09-10T00:00:00.000Z"
+  },
+  "maxPoints": 300
+}]

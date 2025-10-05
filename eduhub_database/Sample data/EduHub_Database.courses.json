@@ -1,0 +1,674 @@
+[{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda0"
+  },
+  "courseId": "COURSE015",
+  "title": "Machine Learning with Python",
+  "description": "Practical machine learning implementation using Python",
+  "instructorId": "INSTR002",
+  "category": "Machine Learning",
+  "level": "intermediate",
+  "duration": 65,
+  "price": 159.99,
+  "tags": [
+    "machine-learning",
+    "python",
+    "practical",
+    "implementation"
+  ],
+  "createdAt": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-20T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cf0"
+  },
+  "courseId": "COURSE009",
+  "title": "Cybersecurity Fundamentals",
+  "description": "Introduction to cybersecurity principles and ethical hacking",
+  "instructorId": "INSTR011",
+  "category": "Cybersecurity",
+  "level": "beginner",
+  "duration": 40,
+  "price": 119.99,
+  "tags": [
+    "cybersecurity",
+    "ethical-hacking",
+    "network-security",
+    "linux"
+  ],
+  "createdAt": {
+    "$date": "2024-09-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda9"
+  },
+  "courseId": "COURSE024",
+  "title": "Advanced UI/UX Design Patterns",
+  "description": "Advanced design patterns and user experience optimization",
+  "instructorId": "INSTR003",
+  "category": "Design",
+  "level": "advanced",
+  "duration": 45,
+  "price": 129.99,
+  "tags": [
+    "ui-ux",
+    "design-patterns",
+    "advanced",
+    "user-research"
+  ],
+  "createdAt": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda4"
+  },
+  "courseId": "COURSE019",
+  "title": "Advanced Cybersecurity",
+  "description": "Advanced cybersecurity techniques and penetration testing",
+  "instructorId": "INSTR011",
+  "category": "Cybersecurity",
+  "level": "advanced",
+  "duration": 60,
+  "price": 189.99,
+  "tags": [
+    "cybersecurity",
+    "penetration-testing",
+    "advanced",
+    "security"
+  ],
+  "createdAt": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188ce8"
+  },
+  "courseId": "COURSE001",
+  "title": "Python for Data Science",
+  "description": "Learn Python programming fundamentals for data analysis and visualization",
+  "instructorId": "INSTR002",
+  "category": "Data Science",
+  "level": "beginner",
+  "duration": 40,
+  "price": 99.99,
+  "tags": [
+    "python",
+    "data-science",
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "createdAt": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cec"
+  },
+  "courseId": "COURSE005",
+  "title": "SQL for Data Analysis",
+  "description": "Master SQL queries and database management for data professionals",
+  "instructorId": "INSTR001",
+  "category": "Database",
+  "level": "beginner",
+  "duration": 30,
+  "price": 79.99,
+  "tags": [
+    "sql",
+    "database",
+    "data-analysis",
+    "mysql"
+  ],
+  "createdAt": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda5"
+  },
+  "courseId": "COURSE020",
+  "title": "Cloud Security on AWS",
+  "description": "Security best practices and implementation on AWS cloud",
+  "instructorId": "INSTR009",
+  "category": "Cloud Computing",
+  "level": "advanced",
+  "duration": 50,
+  "price": 169.99,
+  "tags": [
+    "aws",
+    "cloud-security",
+    "devsecops",
+    "cloud-computing"
+  ],
+  "createdAt": {
+    "$date": "2024-09-15T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188ceb"
+  },
+  "courseId": "COURSE004",
+  "title": "Natural Language Processing",
+  "description": "Learn NLP techniques for text analysis and language processing",
+  "instructorId": "INSTR004",
+  "category": "Artificial Intelligence",
+  "level": "advanced",
+  "duration": 50,
+  "price": 179.99,
+  "tags": [
+    "nlp",
+    "python",
+    "text-analysis",
+    "ai",
+    "database"
+  ],
+  "createdAt": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cf2"
+  },
+  "courseId": "COURSE011",
+  "title": "Data Analysis with Power BI",
+  "description": "Create interactive dashboards and reports with Power BI",
+  "instructorId": "INSTR003",
+  "category": "Business Intelligence",
+  "level": "beginner",
+  "duration": 35,
+  "price": 89.99,
+  "tags": [
+    "power-bi",
+    "data-analysis",
+    "business-intelligence",
+    "dashboard"
+  ],
+  "createdAt": {
+    "$date": "2024-11-08T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda1"
+  },
+  "courseId": "COURSE016",
+  "title": "Deep Learning for Computer Vision",
+  "description": "Advanced deep learning techniques for image recognition and processing",
+  "instructorId": "INSTR004",
+  "category": "Deep Learning",
+  "level": "advanced",
+  "duration": 75,
+  "price": 219.99,
+  "tags": [
+    "deep-learning",
+    "computer-vision",
+    "cnn",
+    "image-processing"
+  ],
+  "createdAt": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda2"
+  },
+  "courseId": "COURSE017",
+  "title": "Full Stack Web Development",
+  "description": "Complete web development course covering frontend and backend",
+  "instructorId": "INSTR001",
+  "category": "Web Development",
+  "level": "intermediate",
+  "duration": 80,
+  "price": 169.99,
+  "tags": [
+    "web-development",
+    "full-stack",
+    "mern",
+    "javascript"
+  ],
+  "createdAt": {
+    "$date": "2024-06-12T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda3"
+  },
+  "courseId": "COURSE018",
+  "title": "Frontend Development with Vue.js",
+  "description": "Modern frontend development using Vue.js framework",
+  "instructorId": "INSTR001",
+  "category": "Web Development",
+  "level": "beginner",
+  "duration": 40,
+  "price": 99.99,
+  "tags": [
+    "vuejs",
+    "frontend",
+    "javascript",
+    "web-development"
+  ],
+  "createdAt": {
+    "$date": "2024-07-08T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cf3"
+  },
+  "courseId": "COURSE012",
+  "title": "UI/UX Design Principles",
+  "description": "Learn user interface and user experience design fundamentals",
+  "instructorId": "INSTR003",
+  "category": "Design",
+  "level": "beginner",
+  "duration": 35,
+  "price": 89.99,
+  "tags": [
+    "ui-ux",
+    "design",
+    "figma",
+    "wireframing"
+  ],
+  "createdAt": {
+    "$date": "2024-12-03T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-18T00:00:00.000Z"
+  },
+  "isPublished": false,
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "68e0b097cec89a379c2ddbb8"
+  },
+  "courseId": "COURSE013",
+  "title": "Advance Artificial Intelligence Prompting",
+  "description": "Vibe Coding-- Building Advance Apllications with AI Prompting",
+  "instructorId": "INSTR001",
+  "category": "Artificial Intelligence",
+  "level": "intermediate",
+  "duration": 50,
+  "price": 100.99,
+  "tags": [
+    "prompting",
+    "react",
+    "javascript",
+    "web-development",
+    "frontend"
+  ],
+  "createdAt": {
+    "$date": "2025-09-12T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188ced"
+  },
+  "courseId": "COURSE006",
+  "title": "Deep Learning with TensorFlow",
+  "description": "Build neural networks and deep learning models using TensorFlow",
+  "instructorId": "INSTR004",
+  "category": "Deep Learning",
+  "level": "advanced",
+  "duration": 70,
+  "price": 199.99,
+  "tags": [
+    "deep-learning",
+    "tensorflow",
+    "neural-networks",
+    "python"
+  ],
+  "createdAt": {
+    "$date": "2024-06-08T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-15T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cea"
+  },
+  "courseId": "COURSE003",
+  "title": "Advanced Data Visualization",
+  "description": "Master data visualization techniques using Python and modern tools",
+  "instructorId": "INSTR003",
+  "category": "Data Visualization",
+  "level": "advanced",
+  "duration": 35,
+  "price": 129.99,
+  "tags": [
+    "data-visualization",
+    "python",
+    "tableau",
+    "power-bi",
+    "database"
+  ],
+  "createdAt": {
+    "$date": "2024-03-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cef"
+  },
+  "courseId": "COURSE008",
+  "title": "Cloud Computing with AWS",
+  "description": "Master AWS services for cloud infrastructure and deployment",
+  "instructorId": "INSTR009",
+  "category": "Cloud Computing",
+  "level": "intermediate",
+  "duration": 45,
+  "price": 139.99,
+  "tags": [
+    "aws",
+    "cloud-computing",
+    "devops",
+    "infrastructure"
+  ],
+  "createdAt": {
+    "$date": "2024-08-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cf1"
+  },
+  "courseId": "COURSE010",
+  "title": "Web Development with React",
+  "description": "Build modern web applications using React and JavaScript",
+  "instructorId": "INSTR001",
+  "category": "Web Development",
+  "level": "intermediate",
+  "duration": 50,
+  "price": 109.99,
+  "tags": [
+    "react",
+    "javascript",
+    "web-development",
+    "frontend"
+  ],
+  "createdAt": {
+    "$date": "2024-10-12T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda6"
+  },
+  "courseId": "COURSE021",
+  "title": "Advanced Database Design",
+  "description": "Advanced database design patterns and optimization techniques",
+  "instructorId": "INSTR001",
+  "category": "Database",
+  "level": "advanced",
+  "duration": 45,
+  "price": 139.99,
+  "tags": [
+    "database",
+    "design",
+    "optimization",
+    "sql"
+  ],
+  "createdAt": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188ce9"
+  },
+  "courseId": "COURSE002",
+  "title": "Machine Learning Fundamentals",
+  "description": "Comprehensive introduction to machine learning algorithms and techniques",
+  "instructorId": "INSTR002",
+  "category": "Machine Learning",
+  "level": "intermediate",
+  "duration": 60,
+  "price": 149.99,
+  "tags": [
+    "machine-learning",
+    "python",
+    "scikit-learn",
+    "ai"
+  ],
+  "createdAt": {
+    "$date": "2024-02-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda8"
+  },
+  "courseId": "COURSE023",
+  "title": "Advanced AI and Neural Networks",
+  "description": "Cutting-edge AI techniques and neural network architectures",
+  "instructorId": "INSTR004",
+  "category": "Artificial Intelligence",
+  "level": "advanced",
+  "duration": 70,
+  "price": 229.99,
+  "tags": [
+    "ai",
+    "neural-networks",
+    "advanced",
+    "research"
+  ],
+  "createdAt": {
+    "$date": "2024-12-10T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddda7"
+  },
+  "courseId": "COURSE022",
+  "title": "Interactive Data Visualization with D3.js",
+  "description": "Create interactive and dynamic data visualizations using D3.js",
+  "instructorId": "INSTR003",
+  "category": "Data Visualization",
+  "level": "intermediate",
+  "duration": 40,
+  "price": 129.99,
+  "tags": [
+    "data-visualization",
+    "d3js",
+    "interactive",
+    "javascript"
+  ],
+  "createdAt": {
+    "$date": "2024-11-12T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e04988fcfe7fc5c2188cee"
+  },
+  "courseId": "COURSE007",
+  "title": "Data Engineering Fundamentals",
+  "description": "Learn data pipeline development and ETL processes",
+  "instructorId": "INSTR001",
+  "category": "Data Engineering",
+  "level": "intermediate",
+  "duration": 55,
+  "price": 159.99,
+  "tags": [
+    "data-engineering",
+    "etl",
+    "python",
+    "aws"
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68e0e62acec89a379c2ddd9f"
+  },
+  "courseId": "COURSE014",
+  "title": "Data Science with R Programming",
+  "description": "Comprehensive data science course using R programming language",
+  "instructorId": "INSTR003",
+  "category": "Data Science",
+  "level": "intermediate",
+  "duration": 45,
+  "price": 119.99,
+  "tags": [
+    "r-programming",
+    "data-science",
+    "statistics",
+    "analysis"
+  ],
+  "createdAt": {
+    "$date": "2024-03-15T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "68e1f38d95edfdef7f43e647"
+  },
+  "courseId": "COURSE023",
+  "title": "Advance Intelligence Prompting",
+  "description": "Vibe Coding-- Building Advance Apllications with AI Prompting",
+  "instructorId": "INSTR@001",
+  "category": "Artificial Intelligence",
+  "level": "intermediate",
+  "duration": 50,
+  "price": 100.99,
+  "tags": [
+    "prompting",
+    "react",
+    "javascript",
+    "web-development",
+    "frontend"
+  ],
+  "createdAt": {
+    "$date": "2025-09-12T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.8
+}]

@@ -1,0 +1,268 @@
+[{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188cfb"
+  },
+  "enrollmentId": "ENR008",
+  "studentId": "STUD017",
+  "courseId": "COURSE008",
+  "enrolledAt": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 15,
+  "lastAccessed": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188cf7"
+  },
+  "enrollmentId": "ENR004",
+  "studentId": "STUD003",
+  "courseId": "COURSE005",
+  "enrolledAt": {
+    "$date": "2023-03-10T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 30,
+  "lastAccessed": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d00"
+  },
+  "enrollmentId": "ENR013",
+  "studentId": "STUD001",
+  "courseId": "COURSE002",
+  "enrolledAt": {
+    "$date": "2024-03-10T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 65,
+  "lastAccessed": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d12"
+  },
+  "enrollmentId": "ENR031",
+  "studentId": "STUD016",
+  "courseId": "COURSE012",
+  "enrolledAt": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 25,
+  "lastAccessed": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d13"
+  },
+  "enrollmentId": "ENR032",
+  "studentId": "STUD006",
+  "courseId": "COURSE008",
+  "enrolledAt": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 60,
+  "lastAccessed": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d06"
+  },
+  "enrollmentId": "ENR019",
+  "studentId": "STUD006",
+  "courseId": "COURSE007",
+  "enrolledAt": {
+    "$date": "2024-04-22T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 85,
+  "lastAccessed": {
+    "$date": "2024-12-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d03"
+  },
+  "enrollmentId": "ENR016",
+  "studentId": "STUD002",
+  "courseId": "COURSE003",
+  "enrolledAt": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 40,
+  "lastAccessed": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d08"
+  },
+  "enrollmentId": "ENR021",
+  "studentId": "STUD007",
+  "courseId": "COURSE008",
+  "enrolledAt": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 55,
+  "lastAccessed": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d07"
+  },
+  "enrollmentId": "ENR020",
+  "studentId": "STUD004",
+  "courseId": "COURSE004",
+  "enrolledAt": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 75,
+  "lastAccessed": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188cf9"
+  },
+  "enrollmentId": "ENR006",
+  "studentId": "STUD009",
+  "courseId": "COURSE007",
+  "enrolledAt": {
+    "$date": "2023-04-05T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 20,
+  "lastAccessed": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d11"
+  },
+  "enrollmentId": "ENR030",
+  "studentId": "STUD015",
+  "courseId": "COURSE010",
+  "enrolledAt": {
+    "$date": "2024-07-15T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 60,
+  "lastAccessed": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d09"
+  },
+  "enrollmentId": "ENR022",
+  "studentId": "STUD004",
+  "courseId": "COURSE006",
+  "enrolledAt": {
+    "$date": "2024-06-08T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 25,
+  "lastAccessed": {
+    "$date": "2025-09-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d0f"
+  },
+  "enrollmentId": "ENR028",
+  "studentId": "STUD011",
+  "courseId": "COURSE010",
+  "enrolledAt": {
+    "$date": "2024-07-02T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 45,
+  "lastAccessed": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e04a89fcfe7fc5c2188d0b"
+  },
+  "enrollmentId": "ENR024",
+  "studentId": "STUD005",
+  "courseId": "COURSE006",
+  "enrolledAt": {
+    "$date": "2024-06-18T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 45,
+  "lastAccessed": {
+    "$date": "2025-01-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e1f61b95edfdef7f43e64b"
+  },
+  "enrollmentId": "ENR033",
+  "studentId": "STUD@017",
+  "courseId": "COURSE010",
+  "enrolledAt": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 45,
+  "lastAccessed": {
+    "$date": "2025-10-05T05:37:47.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e238e495edfdef7f43e6c9"
+  },
+  "enrollmentId": "ENR050",
+  "studentId": "STUD013",
+  "courseId": "COURSE007",
+  "enrolledAt": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "completionStatus": "in-progress",
+  "progress": 45,
+  "lastAccessed": {
+    "$date": "2025-10-05T10:22:44.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e23ab495edfdef7f43e6d8"
+  },
+  "enrollmentId": "ENR200",
+  "studentId": "STUD200",
+  "courseId": "COURSE001",
+  "enrolledAt": {
+    "$date": "2025-10-05T09:30:28.000Z"
+  },
+  "completionStatus": "enrolled"
+}]

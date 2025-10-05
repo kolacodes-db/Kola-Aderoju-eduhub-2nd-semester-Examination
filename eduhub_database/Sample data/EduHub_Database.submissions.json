@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d4c"
+  },
+  "submissionId": "SUBM017",
+  "assignmentId": "ASSIGN007",
+  "studentId": "STUD013",
+  "submittedAt": {
+    "$date": "2025-04-01T10:30:00.000Z"
+  },
+  "content": "Complex SQL queries solving business problems with optimization",
+  "grade": "B",
+  "feedback": "Queries are efficient and well-structured. Good use of window functions and CTEs.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d40"
+  },
+  "submissionId": "SUBM005",
+  "assignmentId": "ASSIGN002",
+  "studentId": "STUD001",
+  "submittedAt": {
+    "$date": "2025-09-05T11:20:00.000Z"
+  },
+  "content": "Pandas data analysis with comprehensive insights and visualizations",
+  "grade": "A",
+  "feedback": "Great analysis! Visualizations are particularly effective and informative.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d44"
+  },
+  "submissionId": "SUBM009",
+  "assignmentId": "ASSIGN003",
+  "studentId": "STUD011",
+  "submittedAt": {
+    "$date": "2025-04-18T12:00:00.000Z"
+  },
+  "content": "Complete linear regression project with dataset analysis and validation",
+  "grade": "A",
+  "feedback": "Excellent mathematical understanding and clean, well-documented code.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d45"
+  },
+  "submissionId": "SUBM010",
+  "assignmentId": "ASSIGN003",
+  "studentId": "STUD002",
+  "submittedAt": {
+    "$date": "2025-04-25T17:45:00.000Z"
+  },
+  "content": "Linear regression with multiple optimization techniques",
+  "grade": "F",
+  "feedback": "Good technical work but submitted late. Automatic F for late submission.",
+  "score": 45
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d53"
+  },
+  "submissionId": "SUBM024",
+  "assignmentId": "ASSIGN010",
+  "studentId": "STUD016",
+  "submittedAt": {
+    "$date": "2025-07-05T09:15:00.000Z"
+  },
+  "content": "AWS infrastructure setup with Terraform and auto-scaling configuration",
+  "grade": "A",
+  "feedback": "Excellent infrastructure as code implementation. Good security practices.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d47"
+  },
+  "submissionId": "SUBM012",
+  "assignmentId": "ASSIGN004",
+  "studentId": "STUD006",
+  "submittedAt": {
+    "$date": "2025-10-14T14:15:00.000Z"
+  },
+  "content": "Classification model analysis with ensemble methods",
+  "grade": "B",
+  "feedback": "Good use of ensemble methods. Model evaluation could be more thorough.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d4a"
+  },
+  "submissionId": "SUBM015",
+  "assignmentId": "ASSIGN006",
+  "studentId": "STUD004",
+  "submittedAt": {
+    "$date": "2025-09-05T16:20:00.000Z"
+  },
+  "content": "Sentiment analysis model with BERT integration and custom dataset",
+  "grade": "A",
+  "feedback": "Excellent use of transformer models. Model performance is impressive.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d4d"
+  },
+  "submissionId": "SUBM018",
+  "assignmentId": "ASSIGN007",
+  "studentId": "STUD006",
+  "submittedAt": {
+    "$date": "2025-04-05T08:45:00.000Z"
+  },
+  "content": "SQL assignment with optimized query solutions and performance analysis",
+  "grade": "C",
+  "feedback": "Good solutions with performance considerations. Some queries could be more efficient.",
+  "score": 75
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d51"
+  },
+  "submissionId": "SUBM022",
+  "assignmentId": "ASSIGN009",
+  "studentId": "STUD004",
+  "submittedAt": {
+    "$date": "2025-11-15T16:20:00.000Z"
+  },
+  "content": "ETL pipeline design document with implementation plan and testing strategy",
+  "grade": "A",
+  "feedback": "Well-designed pipeline with good error handling and scalability considerations.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d3d"
+  },
+  "submissionId": "SUBM002",
+  "assignmentId": "ASSIGN001",
+  "studentId": "STUD002",
+  "submittedAt": {
+    "$date": "2025-11-15T09:15:00.000Z"
+  },
+  "content": "Python basics assignment submission with all tasks completed",
+  "grade": "A",
+  "feedback": "Great improvement! All tasks completed successfully.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d4f"
+  },
+  "submissionId": "SUBM020",
+  "assignmentId": "ASSIGN008",
+  "studentId": "STUD005",
+  "submittedAt": {
+    "$date": "2025-06-25T13:15:00.000Z"
+  },
+  "content": "Neural network implementation with custom layers and activation functions",
+  "grade": "A",
+  "feedback": "Excellent implementation with innovative custom components.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d4b"
+  },
+  "submissionId": "SUBM016",
+  "assignmentId": "ASSIGN006",
+  "studentId": "STUD011",
+  "submittedAt": {
+    "$date": "2025-09-08T11:45:00.000Z"
+  },
+  "content": "Sentiment analysis using traditional and deep learning approaches",
+  "grade": "A",
+  "feedback": "Good comparison between different approaches. Documentation is thorough.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d50"
+  },
+  "submissionId": "SUBM021",
+  "assignmentId": "ASSIGN008",
+  "studentId": "STUD007",
+  "submittedAt": {
+    "$date": "2025-06-30T16:45:00.000Z"
+  },
+  "content": "Deep learning model with TensorFlow and Keras",
+  "grade": "A",
+  "feedback": "Good use of TensorFlow framework. Model architecture could be more complex.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d4e"
+  },
+  "submissionId": "SUBM019",
+  "assignmentId": "ASSIGN007",
+  "studentId": "STUD015",
+  "submittedAt": {
+    "$date": "2025-04-03T14:20:00.000Z"
+  },
+  "content": "Advanced SQL queries with subqueries and complex joins",
+  "grade": "B",
+  "feedback": "Good understanding of complex SQL concepts. Query logic is sound.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d48"
+  },
+  "submissionId": "SUBM013",
+  "assignmentId": "ASSIGN005",
+  "studentId": "STUD006",
+  "submittedAt": {
+    "$date": "2025-08-20T14:15:00.000Z"
+  },
+  "content": "Interactive sales dashboard with multiple visualizations and filters",
+  "grade": "B",
+  "feedback": "Dashboard is interactive and user-friendly. Good design choices and responsive layout.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d41"
+  },
+  "submissionId": "SUBM006",
+  "assignmentId": "ASSIGN002",
+  "studentId": "STUD007",
+  "submittedAt": {
+    "$date": "2025-09-10T10:00:00.000Z"
+  },
+  "content": "Data analysis report using Pandas library with statistical analysis",
+  "grade": "B",
+  "feedback": "Good work on data cleaning and transformation steps. Statistical analysis could be deeper.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d49"
+  },
+  "submissionId": "SUBM014",
+  "assignmentId": "ASSIGN005",
+  "studentId": "STUD010",
+  "submittedAt": {
+    "$date": "2025-08-24T16:30:00.000Z"
+  },
+  "content": "Business intelligence dashboard with real-time data integration",
+  "grade": "C",
+  "feedback": "Good technical implementation. UI could be more intuitive.",
+  "score": 75
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d3c"
+  },
+  "submissionId": "SUBM001",
+  "assignmentId": "ASSIGN001",
+  "studentId": "STUD001",
+  "submittedAt": {
+    "$date": "2025-11-10T14:30:00.000Z"
+  },
+  "content": "Completed all Python exercises with detailed comments and unit tests",
+  "grade": "A",
+  "feedback": "Excellent work! Code is well-structured and documented. Good test coverage.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d54"
+  },
+  "submissionId": "SUBM025",
+  "assignmentId": "ASSIGN010",
+  "studentId": "STUD015",
+  "submittedAt": {
+    "$date": "2025-07-08T14:50:00.000Z"
+  },
+  "content": "Cloud architecture design with multi-region deployment",
+  "grade": "B",
+  "feedback": "Good multi-region design. Documentation could be more detailed.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d3e"
+  },
+  "submissionId": "SUBM003",
+  "assignmentId": "ASSIGN001",
+  "studentId": "STUD004",
+  "submittedAt": {
+    "$date": "2025-11-05T16:45:00.000Z"
+  },
+  "content": "Assignment submission including bonus challenges and extra features",
+  "grade": "A",
+  "feedback": "Outstanding! Bonus challenges implemented perfectly with innovative solutions.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d52"
+  },
+  "submissionId": "SUBM023",
+  "assignmentId": "ASSIGN009",
+  "studentId": "STUD006",
+  "submittedAt": {
+    "$date": "2025-11-18T11:30:00.000Z"
+  },
+  "content": "Data pipeline architecture with cloud integration",
+  "grade": "B",
+  "feedback": "Good cloud integration design. Consider more data validation steps.",
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d43"
+  },
+  "submissionId": "SUBM008",
+  "assignmentId": "ASSIGN003",
+  "studentId": "STUD005",
+  "submittedAt": {
+    "$date": "2025-04-15T15:30:00.000Z"
+  },
+  "content": "Linear regression implementation from scratch with gradient descent optimization",
+  "grade": "A",
+  "feedback": "Good implementation, gradient descent is well-optimized and efficient.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d42"
+  },
+  "submissionId": "SUBM007",
+  "assignmentId": "ASSIGN002",
+  "studentId": "STUD004",
+  "submittedAt": {
+    "$date": "2025-09-15T14:30:00.000Z"
+  },
+  "content": "Advanced pandas analysis with machine learning integration",
+  "grade": "F",
+  "feedback": "Excellent technical work but submitted late. Automatic F for late submission.",
+  "score": 45
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d46"
+  },
+  "submissionId": "SUBM011",
+  "assignmentId": "ASSIGN004",
+  "studentId": "STUD002",
+  "submittedAt": {
+    "$date": "2025-10-10T17:45:00.000Z"
+  },
+  "content": "Comparison of 5 classification algorithms with hyperparameter tuning",
+  "grade": "A",
+  "feedback": "Comprehensive comparison with good model selection rationale and tuning.",
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "68e04b1afcfe7fc5c2188d3f"
+  },
+  "submissionId": "SUBM004",
+  "assignmentId": "ASSIGN001",
+  "studentId": "STUD007",
+  "submittedAt": {
+    "$date": "2025-11-20T10:00:00.000Z"
+  },
+  "content": "Python assignment with comprehensive error handling",
+  "grade": "F",
+  "feedback": "Good implementation but submitted late. Automatic F for late submission.",
+  "score": 45
+}]
