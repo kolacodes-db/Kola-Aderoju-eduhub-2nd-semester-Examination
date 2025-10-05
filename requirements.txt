@@ -1,0 +1,8 @@
+# Create requirements.txt with common dependencies
+cat > requirements.txt << EOF
+pymongo
+jupyter
+pandas
+numpy
+python-dotenv
+EOF
